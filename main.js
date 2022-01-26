@@ -20,7 +20,7 @@ function take_snapshot()
 
 console.log("ml5.versionn is ",ml5.version);
 
-classifier=ml5.imageClassifier("https://teachablemachine.withgoogle.com/models/MDxHRPHYk/",modelLoaded());
+classifier=ml5.imageClassifier("https://teachablemachine.withgoogle.com/models/9AdTddVZW/",modelLoaded());
 
 function modelLoaded()
 {
